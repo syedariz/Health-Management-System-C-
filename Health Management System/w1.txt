@@ -1,0 +1,3 @@
+Name: Patient1
+CNIC: 111112
+Phone No.: 33645

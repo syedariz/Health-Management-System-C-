@@ -1,0 +1,7 @@
+OSL: 98
+Pulse: 72
+BMI: 23.5
+Blood Pressure: 130/85
+Number of Falls: 0
+Position: Sitting (Position 2)
+Number of Steps: 8000

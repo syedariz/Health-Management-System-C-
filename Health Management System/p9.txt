@@ -1,0 +1,7 @@
+OSL: 95
+Pulse: 65
+BMI: 21.2
+Blood Pressure: 120/80)
+Number of Falls: 1
+Position: Standing (Position 4)
+Number of Steps: 6000

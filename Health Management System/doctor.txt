@@ -1,0 +1,5 @@
+1.Dr.Jawad Hassan         Heart Surgeon
+2.Dr.Jawed Iqbal         Psychatrist
+3.Dr.Rashid Habib        Neorologist
+4.Dr.Shumama Nawaz       Health Specialist
+5.Dr.Kamran Akmal        Orthopedic

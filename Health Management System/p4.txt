@@ -1,0 +1,7 @@
+OSL: 98
+Pulse: 70
+BMI: 21.5
+Blood Pressure: 118/80
+Number of Falls: 0
+Position: Standing (Position 4)
+Number of Steps: 8000

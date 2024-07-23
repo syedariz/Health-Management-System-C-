@@ -1,0 +1,9 @@
+OSL: 93
+Pulse: 82
+BMI: 27.9
+Blood Pressure: 140/90
+Number of Falls: 0
+Position: Standing (Position 4)
+Number of Steps: 3000
+
+ADDITION: jahsgfjhsagf

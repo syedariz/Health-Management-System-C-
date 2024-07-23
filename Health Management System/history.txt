@@ -1,0 +1,30 @@
+Name: Ariz Usman
+CNIC: 123
+Phone No.: 123
+OSL: 98
+Pulse Is: 77
+BMI: 20.723
+BP: 116
+No. Of Falls: 0
+Position: 4
+No. Of Steps: 1169
+Check: No Signs Of Any Dieseases--You Are Safe
+Call Information: 44 Mins Duration And Called On 17:5:1
+Prescriptions Are: lease take care
+Appointments: Friday
+---------------------------------------------------------------------
+Name: Patient1
+CNIC: 111112
+Phone No.: 33645
+OSL: 98
+Pulse Is: 77
+BMI: 20.723
+BP: 116
+No. Of Falls: 0
+Position: 4
+No. Of Steps: 1169
+Check: No Signs Of Any Dieseases--You Are Safe
+Call Information: 44 Mins Duration And Called On 17:5:1
+Prescriptions Are: k
+Appointments: saturday
+---------------------------------------------------------------------

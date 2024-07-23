@@ -1,0 +1,7 @@
+1.Monday (8pm-10pm)
+2.Tuesday (3am-6am)
+3.Wednesday (6am-9am)
+4.Thursday (5pm-8pm)
+5.Friday (Not Availible)
+6.Saturday (Not Availible)
+7.Sunday (Not Availible)
